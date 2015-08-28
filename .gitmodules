@@ -4,3 +4,6 @@
 	url = https://github.com/glfw/glfw.git
 
 	ignore=dirty
+[submodule "dependencies/glew"]
+	path = dependencies/glew
+	url = https://github.com/nigels-com/glew.git
