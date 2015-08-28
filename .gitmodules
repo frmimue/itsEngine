@@ -1,3 +1,6 @@
 [submodule "glfw"]
 	path = dependencies/glfw
+	
 	url = https://github.com/glfw/glfw.git
+
+	ignore=dirty
